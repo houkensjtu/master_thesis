@@ -1,0 +1,30 @@
+\begin{thenomenclature} 
+
+ \nomgroup{A}
+
+  \item [{$\mu$}]\begingroup Dynamic viscosity.\nomeqref {3}
+		\nompageref{4}
+  \item [{$\rho$}]\begingroup Fluid density.\nomeqref {3}\nompageref{4}
+  \item [{$\vec q$}]\begingroup External heat flux.\nomeqref {3}
+		\nompageref{4}
+  \item [{$\vec v$}]\begingroup Flow velocity vector.\nomeqref {3}
+		\nompageref{4}
+  \item [{$c_p$}]\begingroup Specific heat of fluid.\nomeqref {3}
+		\nompageref{4}
+  \item [{$d$}]\begingroup Diameter of the microchannel.\nomeqref {4}
+		\nompageref{9}
+  \item [{$F_b$}]\begingroup Other body forces.\nomeqref {3}
+		\nompageref{4}
+  \item [{$g$}]\begingroup Gravity (vector).\nomeqref {3}\nompageref{4}
+  \item [{$k_L$}]\begingroup Heat conduction of the fluid.\nomeqref {4}
+		\nompageref{9}
+  \item [{$Nu$}]\begingroup Nusselt number.\nomeqref {4}\nompageref{9}
+  \item [{$p$}]\begingroup Pressure.\nomeqref {3}\nompageref{4}
+  \item [{$q_w$}]\begingroup Heat flux on the microchannel wall.\nomeqref {4}
+		\nompageref{9}
+  \item [{$T_b$}]\begingroup Average temperature on cross section of a microchannel.\nomeqref {4}
+		\nompageref{9}
+  \item [{$T_w$}]\begingroup Wall temperature of a microchannel.\nomeqref {4}
+		\nompageref{9}
+
+\end{thenomenclature}

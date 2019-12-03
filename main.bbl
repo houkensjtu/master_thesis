@@ -1,0 +1,248 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{okajima}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0380743ebc0ed64f5d6afdcdd8b5834d}{%
+           family={Okajima},
+           familyi={O\bibinitperiod},
+           given={Junosuke},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{0380743ebc0ed64f5d6afdcdd8b5834d}
+      \strng{fullhash}{0380743ebc0ed64f5d6afdcdd8b5834d}
+      \strng{bibnamehash}{0380743ebc0ed64f5d6afdcdd8b5834d}
+      \strng{authorbibnamehash}{0380743ebc0ed64f5d6afdcdd8b5834d}
+      \strng{authornamehash}{0380743ebc0ed64f5d6afdcdd8b5834d}
+      \strng{authorfullhash}{0380743ebc0ed64f5d6afdcdd8b5834d}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Tohoku university Phd Dissertation}
+      \field{title}{Phase change phenomena and heat transfer in a microchannel and their application to biological cooling system}
+      \field{year}{2011}
+    \endentry
+    \entry{Hirt1981201}{article}{}
+      \name{author}{2}{}{%
+        {{hash=c4dca3e281735b85ec41b34e8e1816ee}{%
+           family={Hirt},
+           familyi={H\bibinitperiod},
+           given={C.W},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f08645e5d50c2669ac1802e42ac5d4e5}{%
+           family={Nichols},
+           familyi={N\bibinitperiod},
+           given={B.D},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{e180d554a2ed1b0aee552476c2b75938}
+      \strng{fullhash}{e180d554a2ed1b0aee552476c2b75938}
+      \strng{bibnamehash}{e180d554a2ed1b0aee552476c2b75938}
+      \strng{authorbibnamehash}{e180d554a2ed1b0aee552476c2b75938}
+      \strng{authornamehash}{e180d554a2ed1b0aee552476c2b75938}
+      \strng{authorfullhash}{e180d554a2ed1b0aee552476c2b75938}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational Physics}
+      \field{number}{1}
+      \field{title}{Volume of fluid (VOF) method for the dynamics of free boundaries}
+      \field{volume}{39}
+      \field{year}{1981}
+      \field{pages}{201\bibrangedash 225}
+      \range{pages}{25}
+    \endentry
+    \entry{Brackbill1992335}{article}{}
+      \name{author}{3}{}{%
+        {{hash=daf4c30bd1bef7de189019d29867ee36}{%
+           family={Brackbill},
+           familyi={B\bibinitperiod},
+           given={J.U},
+           giveni={J\bibinitperiod}}}%
+        {{hash=92b4036c429ea7b22f80f15854197adf}{%
+           family={Kothe},
+           familyi={K\bibinitperiod},
+           given={D.B},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d50e27bd679082f59c29ca7a219be587}{%
+           family={Zemach},
+           familyi={Z\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{1df2e5c7e05ee2214857680e53b5a4dd}
+      \strng{fullhash}{1df2e5c7e05ee2214857680e53b5a4dd}
+      \strng{bibnamehash}{1df2e5c7e05ee2214857680e53b5a4dd}
+      \strng{authorbibnamehash}{1df2e5c7e05ee2214857680e53b5a4dd}
+      \strng{authornamehash}{1df2e5c7e05ee2214857680e53b5a4dd}
+      \strng{authorfullhash}{1df2e5c7e05ee2214857680e53b5a4dd}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational Physics}
+      \field{number}{2}
+      \field{title}{A continuum method for modeling surface tension}
+      \field{volume}{100}
+      \field{year}{1992}
+      \field{pages}{335\bibrangedash 354}
+      \range{pages}{20}
+    \endentry
+    \entry{patankar1980numerical}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1f81fa345bf0f5551fe30254f86c50f6}{%
+           family={Patankar},
+           familyi={P\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{1f81fa345bf0f5551fe30254f86c50f6}
+      \strng{fullhash}{1f81fa345bf0f5551fe30254f86c50f6}
+      \strng{bibnamehash}{1f81fa345bf0f5551fe30254f86c50f6}
+      \strng{authorbibnamehash}{1f81fa345bf0f5551fe30254f86c50f6}
+      \strng{authornamehash}{1f81fa345bf0f5551fe30254f86c50f6}
+      \strng{authorfullhash}{1f81fa345bf0f5551fe30254f86c50f6}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780891165224}
+      \field{series}{Series in computational methods in mechanics and thermal sciences}
+      \field{title}{Numerical Heat Transfer and Fluid Flow}
+      \field{year}{1980}
+    \endentry
+    \entry{nichols1980sola}{article}{}
+      \name{author}{4}{}{%
+        {{hash=992228f9385336c158771f37f0833954}{%
+           family={Nichols},
+           familyi={N\bibinitperiod},
+           given={B.D.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=b621d8f6a59001bf3482871e4e108e02}{%
+           family={Hirt},
+           familyi={H\bibinitperiod},
+           given={C.W.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a50242ca0adf64c71c87d5ea2cf06b34}{%
+           family={Hotchkiss},
+           familyi={H\bibinitperiod},
+           given={R.S.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=74f72c1405ce2763ac8d070a0d457944}{%
+           family={Laboratory},
+           familyi={L\bibinitperiod},
+           given={Los\bibnamedelimb Alamos\bibnamedelima Scientific},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a7896cfd5dc0dcfbcba7a8bcce3feb7d}
+      \strng{fullhash}{b44fbaba807555e9d7d43ca9f75f4cb8}
+      \strng{bibnamehash}{a7896cfd5dc0dcfbcba7a8bcce3feb7d}
+      \strng{authorbibnamehash}{a7896cfd5dc0dcfbcba7a8bcce3feb7d}
+      \strng{authornamehash}{a7896cfd5dc0dcfbcba7a8bcce3feb7d}
+      \strng{authorfullhash}{b44fbaba807555e9d7d43ca9f75f4cb8}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Los Alamos National Scientific Laboratory}
+      \field{title}{SOLA-VOF: A Solution Algorithm for Transient Fluid Flow with Multiple Free Boundaries}
+      \field{year}{1980}
+    \endentry
+    \entry{dambreakexp}{article}{}
+      \name{author}{1}{}{%
+        {{hash=55ce1d1adaff6a20fcf4c1b37096cc98}{%
+           family={J.\bibnamedelimi C.\bibnamedelimi Martin},
+           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={W.\bibnamedelimi J.\bibnamedelimi Moyce},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Royal Society}%
+      }
+      \strng{namehash}{55ce1d1adaff6a20fcf4c1b37096cc98}
+      \strng{fullhash}{55ce1d1adaff6a20fcf4c1b37096cc98}
+      \strng{bibnamehash}{55ce1d1adaff6a20fcf4c1b37096cc98}
+      \strng{authorbibnamehash}{55ce1d1adaff6a20fcf4c1b37096cc98}
+      \strng{authornamehash}{55ce1d1adaff6a20fcf4c1b37096cc98}
+      \strng{authorfullhash}{55ce1d1adaff6a20fcf4c1b37096cc98}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philosophical Transactions of the Royal Society of London. Series A, Mathematical and Physical Sciences}
+      \field{number}{882}
+      \field{title}{Part IV. An Experimental Study of the Collapse of Liquid Columns on a Rigid Horizontal Plane}
+      \field{volume}{244}
+      \field{year}{1952}
+      \field{pages}{312\bibrangedash 324}
+      \range{pages}{13}
+    \endentry
+    \entry{Triplett1999377}{article}{}
+      \name{author}{4}{}{%
+        {{hash=a064bcb5438fcdc408b9b49581f4c715}{%
+           family={Triplett},
+           familyi={T\bibinitperiod},
+           given={K.A.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=155d7cb7661f81dd77dbfe2784b1e2d8}{%
+           family={Ghiaasiaan},
+           familyi={G\bibinitperiod},
+           given={S.M.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=652e4e0a7bfcb03945a6053e99565748}{%
+           family={Abdel-Khalik},
+           familyi={A\bibinithyphendelim K\bibinitperiod},
+           given={S.I.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9b0268449dbfb44669f8d288f4492a81}{%
+           family={Sadowski},
+           familyi={S\bibinitperiod},
+           given={D.L.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{5b437d59eb23854fee3a6d2421511a53}
+      \strng{fullhash}{f053aea79c13fdb4b5ce92d345d9f7bf}
+      \strng{bibnamehash}{5b437d59eb23854fee3a6d2421511a53}
+      \strng{authorbibnamehash}{5b437d59eb23854fee3a6d2421511a53}
+      \strng{authornamehash}{5b437d59eb23854fee3a6d2421511a53}
+      \strng{authorfullhash}{f053aea79c13fdb4b5ce92d345d9f7bf}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0301-9322}
+      \field{journaltitle}{International Journal of Multiphase Flow}
+      \field{number}{3}
+      \field{title}{Gas–liquid two-phase flow in microchannels Part I: two-phase flow patterns}
+      \field{volume}{25}
+      \field{year}{1999}
+      \field{pages}{377\bibrangedash 394}
+      \range{pages}{18}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
